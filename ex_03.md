@@ -24,7 +24,7 @@
 	<img src="quorra.jpg" alt="Quorra">
 	<h5><em>Quorra: Mii-ow Fit!</em></h5>
 	
-	<h3>Cat Shopping List</h3>
+<h3>Cat Shopping List</h3>
 	<table>
 		<tr>
 			<td><strong>Item</strong></td>
